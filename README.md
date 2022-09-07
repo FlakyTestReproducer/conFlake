@@ -1,4 +1,8 @@
-This repository contains the flaky test reproducing tool FlakReaper and our dataset ConFlake.
+# ConFlake and FlakReaper
 
-### [Project Page](https://flakytestreproducer.github.io/)
+This repository contains our flaky test dataset ConFlake and the reproducing tool FlakReaper.
+
+### [Page of ConFlake](https://flakytestreproducer.github.io/)
+
+
 
