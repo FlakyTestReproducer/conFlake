@@ -2,7 +2,7 @@
 
 This repository contains our flaky test dataset ConFlake and the reproducing tool FlakReaper.
 
-### [Page of ConFlake](https://flakytestreproducer.github.io/)
+### [ConFlake Artifacts: Benchmark, RootCauses, and RunTime Data](https://flakytestreproducer.github.io/)
 
 ### How to use FlakReaper
 1. APK Instrumentation
